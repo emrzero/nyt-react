@@ -2,6 +2,10 @@ var React = require('react');
 
 var Main = React.createClass({
   render: function() {
-    <h1>Hello World</h1>
+    return(
+      <h1>Hello World</h1>
+    );
   }
 });
+
+module.exports = Main;
