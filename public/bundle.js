@@ -21442,7 +21442,7 @@
 	      { className: 'container' },
 	      React.createElement(
 	        'div',
-	        { className: 'jumbotron' },
+	        { className: 'jumbotron text-center' },
 	        React.createElement(
 	          'h1',
 	          null,

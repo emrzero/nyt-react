@@ -9,7 +9,7 @@ var Main = React.createClass({
   render: function() {
     return(
       <div className="container">
-        <div className="jumbotron">
+        <div className="jumbotron text-center">
           <h1>New York Times Scrubber</h1>
         </div>
 
